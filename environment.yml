@@ -21,6 +21,7 @@ dependencies:
   - vega=3.4.0
   - geopandas=0.8.1
   - descartes=1.1.0
+  - cartopy<0.18
   - mapclassify=2.3.0
   - contextily=1.0.0
   - bokeh=2.1.1
@@ -68,4 +69,3 @@ dependencies:
       - esri2gpd==1.0.7
       - osm2gpd==1.0.1
       - webdriver_manager==3.2.2
-      - cartopy==0.18.0
